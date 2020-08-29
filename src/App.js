@@ -16,6 +16,7 @@ function App() {
         <p>
           Hola mundo
         </p>
+        <p>Featured David</p>
         <a
           className="App-link"
           href="https://reactjs.org"
